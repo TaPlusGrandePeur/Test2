@@ -1,1 +1,7 @@
-System.out.println("I'd like to make this thing work")
+
+public class UnCode {
+
+	public static void main(String[] args) {
+
+System.out.println("I'd like to make this thing work");
+}
